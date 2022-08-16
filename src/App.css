@@ -39,8 +39,33 @@ body {
   background: var(--color-light);
   color: var(--color-light-sm);
   line-height: 1.7;
-  background-image: url(../src/assets/texture_bg1.jpg);
+  /*background-image: url(../src/assets/texture_bg1.jpg);*/
 }
+
+/* 
+#light {
+  background-color: var(--color-white);
+}
+
+#light .header__container {
+  background-color: #f47c7c;
+}
+
+#dark {
+  background-color: var(--color-bg-variant);
+}
+
+#dark .header__container {
+  background-color: #f9e4c8;
+}
+
+.switch {
+  display: flex;
+  width: 100vw;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+} */
 
 /* =============== GENERAL STYLES ============= */
 .container {
